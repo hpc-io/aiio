@@ -19,5 +19,5 @@ Disclaimer:
    https://www.mcs.anl.gov/research/projects/darshan/
 
 
-Please contain dbin@lbl.gov for the questions.
+Please contain Bin Dong,  dbin@lbl.gov for the questions.
 
