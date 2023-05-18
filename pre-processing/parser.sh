@@ -1,5 +1,9 @@
 #!/bin/bash -l
 
+# AIIO Copyright (c) 2023, The Regents of the University of California,
+# through Lawrence Berkeley National Laboratory (subject to receipt of
+# any required approvals from the U.S. Dept. of Energy) and Ohio State
+# University. All rights reserved.
 
 # https://stackoverflow.com/questions/238073/how-to-add-a-progress-bar-to-a-shell-script
 # 1. Create ProgressBar function

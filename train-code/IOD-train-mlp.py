@@ -7,6 +7,11 @@
 ###https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
 ##https://machinelearningmastery.com/how-to-transform-target-variables-for-regression-with-scikit-learn/
 
+# AIIO Copyright (c) 2023, The Regents of the University of California,
+# through Lawrence Berkeley National Laboratory (subject to receipt of
+# any required approvals from the U.S. Dept. of Energy) and Ohio State
+# University. All rights reserved.
+
 file_tot_performace_tagged="/global/cfs/projectdirs/m2621/dbin/Cori_archive_19_20_21_22_un_taz_parsered_tagged_for_training-v1.csv"
 
 plot_result_of="/global/homes/d/dbin/IODiagnoser/MLP_learning_curve.pdf"

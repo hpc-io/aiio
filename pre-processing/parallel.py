@@ -1,6 +1,17 @@
 #!/usr/bin/env python
 
 # https://docs.nersc.gov/development/languages/python/parallel-python/
+
+
+#
+# *** Copyright Notice ***
+
+# AIIO Copyright (c) 2023, The Regents of the University of California,
+# through Lawrence Berkeley National Laboratory (subject to receipt of
+# any required approvals from the U.S. Dept. of Energy) and Ohio State
+# University. All rights reserved.
+
+
 from mpi4py import MPI
 import os
 import subprocess

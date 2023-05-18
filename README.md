@@ -22,7 +22,8 @@ Disclaimer:
 Please contain Bin Dong,  dbin@lbl.gov for the questions.
 
 
-The code has source code under a modified BSD license. See below for detailed information
+The code has source code under a modified BSD license. The license is a BSD license with an ADDED paragraph at the end that makes it accept improvements without a hassle. 
+See below for detailed information
 
 
 ***************************

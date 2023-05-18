@@ -10,6 +10,13 @@
 #model_save_file="/global/cfs/cdirs/m2621/dbin/io-ai-model-tabnet-"
 #model_save_file_dir="/global/cfs/cdirs/m2621/dbin/io-ai-model-tabnet-dir-"
 
+
+
+# AIIO Copyright (c) 2023, The Regents of the University of California,
+# through Lawrence Berkeley National Laboratory (subject to receipt of
+# any required approvals from the U.S. Dept. of Energy) and Ohio State
+# University. All rights reserved.
+
 is_kflod_test_flag=False
 kflod_n_splits=3
 kflod_n_splits_result_file="/global/homes/d/dbin/IODiagnoser/tabnet_3fold_result"
