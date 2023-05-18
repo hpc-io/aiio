@@ -4,9 +4,13 @@
 The AIIO Web Service is accessible via :
 http://aiio.bindong.development.svc.spin.nersc.org/
 
-(Under the resource constraint now, the web may be very slow)
+
+
+Please grab a Darshan log from darshan-logs-for-paper and try the AIIO Web Service. (Under the resource constraint now, the web may be very slow) 
 
 ![AIIO Web Page](./demo.jpg)
+
+
 
 
 This repo contains the materials for our paper.
@@ -16,7 +20,7 @@ Bin Dong, Jean Luca Bez, and Suren Byna. 2023. AIIO: Using Artificial Intelligen
 
 
 
-Please grab a Darshan log from darshan-logs-for-paper and try the AIIO Web Service 
+
 
 Disclaimer:
 1) Our models are trained with Darshan logs from Cori Supercomputer of NERSC.
