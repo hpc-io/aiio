@@ -6,7 +6,7 @@ http://aiio.bindong.development.svc.spin.nersc.org/
 
 (Under the resource constraint now, the web may be very slow)
 
-![AIIO Web Page](./demo.png)
+![AIIO Web Page](./demo.jpg)
 
 
 This repo contains the materials for our paper.
